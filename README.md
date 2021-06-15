@@ -7,7 +7,7 @@ We built the globe based on https://github.blog/2020-12-21-how-we-built-the-gith
 
 
 ## Live URL
-Demo URL: https://wedding-bands-react-node-js.vercel.app/
+Demo URL: https://github-globe.vercel.app/
 
 ## License
 

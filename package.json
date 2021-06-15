@@ -1,0 +1,16 @@
+{
+  "name": "globe",
+  "version": "1.0.0",
+  "description": "**Github Globe Three** is a simple website that mimics the globe at github landing page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^2.9.4",
+    "three": "^0.126.0"
+  }
+}
