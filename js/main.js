@@ -190,7 +190,7 @@ class App {
     }
 
     /*
-        function:   makes a maximum of 20 curves which will be created after a certial periord of delay time.
+        function:   makes a maximum of 20 curves which will be created after a certian periord of delay time.
                     animates curves and spikes and removes them once animation is finished.
     */
     animate() {
